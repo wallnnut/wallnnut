@@ -1,17 +1,22 @@
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+<body bgcolor="yellow">
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallnnut&theme=dark" /></p>
-<p align="center" >
+<p align="center" height="300px">
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=wallnnut&hide_clan=true" />
+      <img src="https://github.r2v.ch/codewars?user=wallnnut&hide_clan=true&height=300" />
     </a>
 </p>
+
+<br/>
+<br/>
+<br/>
+
+<div >
 
 ### Languages:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg#L1"></code>
+</div>
 
 ### Tools:
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg#L1"></code> 
@@ -21,3 +26,4 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg"></code> 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg"></code> 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg"></code>
+</body>
