@@ -10,10 +10,8 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg#L1"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg"></code>
 
 ### Tools:
-<code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg#L1"></code> 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg#L1"></code> 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg"></code> 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg#L1"></code> 
