@@ -27,7 +27,7 @@
 <div>
 
 ### Tools:
-<div style="display: flex;">
+<div style="display: flex; width: 100%">
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg#L1"></code>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
 <code><img height="30" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg"></code> 
