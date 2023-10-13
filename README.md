@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&langs_count=8" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallnnut" /></p>
 
 <p>
 - 🔭 I’m currently working on ...
