@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-<div style="display: flex; flex-direction: row;" align="center">
+<div style="display: flex; flex-direction: row; width: 100%" align="center">
 <div>
 
 ### Languages:
