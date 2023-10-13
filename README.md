@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-**wallnnut/wallnnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamedovOFF&langs_count=8" /></p>
 
-Here are some ideas to get you started:
-
+<p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
